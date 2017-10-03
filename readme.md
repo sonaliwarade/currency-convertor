@@ -10,3 +10,5 @@ This is Currency Converter with Laravel 5.3
 4) create vhost with name : myproject.local & set root path to currency-convertor/public
 
 5) Currency conversion done from some currency to US Doller
+
+6) Login Details :  email : sonali@test.com , password : magic
